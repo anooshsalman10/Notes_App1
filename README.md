@@ -39,39 +39,6 @@ notes-app/
 
 ---
 
-## 💻 How to Run Locally
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/notes-app.git
-```
-
-2. Navigate into the project folder:
-
-```bash
-cd notes-app
-```
-
-3. Open `index.html` in your browser.
-
----
-
-## 📦 How Data is Stored
-
-All notes are stored in the browser using `localStorage` in the following format:
-
-```js
-[
-  {
-    id: 1735123456789,
-    text: "My first note"
-  }
-]
-```
-
----
-
 ## 🎯 Learning Goals
 
 This project was built to practice and understand:
